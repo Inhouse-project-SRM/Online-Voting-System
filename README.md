@@ -31,4 +31,4 @@ SECRET = 'ThisIsATemporarySecretKey'
 * mongoose
 * bcrypt
 * jsonwebtoken
-* react
+* reactjs
