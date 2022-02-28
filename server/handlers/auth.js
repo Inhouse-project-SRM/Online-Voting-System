@@ -1,4 +1,4 @@
-const db = require('../models');
+const dbe = require('../models');
 const jwt = require('jsonwebtoken');
 
 // for development only
